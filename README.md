@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/melihggunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melihggunduz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/melihgunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melihgunduz" height="30" width="40" /></a>
-<a href="https://instagram.com/melihggunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihggunduz" height="30" width="40" /></a>
+<a href="https://instagram.com/melihcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihggunduz" height="30" width="40" /></a>
 <a href="https://medium.com/@melihgunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melihgunduz" height="30" width="40" /></a>
 </p>
 
