@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **melih__gunduz@outlook.com**
 
-- ⚡ Fun fact **life is beutiful and I am living it better after every milestone**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/melihggunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melihggunduz" height="30" width="40" /></a>
