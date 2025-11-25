@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melih</h1>
 <h3 align="center">A passionate frontend developer from Turkey and I am developing web and mobile apps since 2017.</h3>
 
-- 🔭 I’m currently working on **blockchain technologies and fullstack development**
-
-- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [https://medium.com/@melihgunduz](https://medium.com/@melihgunduz)
 
