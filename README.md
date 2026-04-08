@@ -2,8 +2,8 @@
 ### Full Stack Developer | Project Manager
 
 After my early frontend career stepping up with full-stack and mobile applications,
-I'm currently working on AI Agents and Product Management
-I'm learning System Design, Database Management and Operating Systems
+I'm currently working on AI Agents and Product Management.
+I'm learning System Design, Database Management and Operating Systems.
 I'm collaborate with a startup (HT)
 
 ## Contact Me
